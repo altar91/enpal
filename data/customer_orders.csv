@@ -1,0 +1,514 @@
+customer_id,city,country,country_code,state,latitude,longitude,start_date,number_of_panels
+1,Aachen,Germany,DE,North Rhine-Westphalia,50.7762,6.0838,2023-01-01,52
+2,Aalen,Germany,DE,Baden-Württemberg,48.8372,10.0936,2023-01-28,33
+3,Achern,Germany,DE,Baden-Württemberg,48.6314,8.0739,2023-02-22,66
+4,Achim,Germany,DE,Lower Saxony,53.013,9.033,2023-01-08,54
+5,Ahaus,Germany,DE,North Rhine-Westphalia,52.0794,7.0134,2023-02-22,54
+6,Ahlen,Germany,DE,North Rhine-Westphalia,51.7633,7.8911,2023-02-07,59
+7,Ahrensburg,Germany,DE,Schleswig-Holstein,53.6747,10.2411,2023-02-17,18
+8,Aichach,Germany,DE,Bavaria,48.45,11.1333,2023-02-12,41
+9,Albstadt,Germany,DE,Baden-Württemberg,48.2119,9.0239,2023-01-18,13
+10,Alsdorf,Germany,DE,North Rhine-Westphalia,50.8744,6.1615,2023-02-13,40
+11,Altenburg,Germany,DE,Thuringia,50.985,12.4333,2023-02-07,35
+12,Altenkirchen,Germany,DE,Rhineland-Palatinate,50.6872,7.6456,2023-02-11,20
+13,Alzey,Germany,DE,Rhineland-Palatinate,49.7517,8.1161,2023-01-15,14
+14,Amberg,Germany,DE,Bavaria,49.4444,11.8483,2023-01-25,43
+15,Andernach,Germany,DE,Rhineland-Palatinate,50.4397,7.4017,2023-02-01,45
+16,Annaberg-Buchholz,Germany,DE,Saxony,50.58,13.0022,2023-01-20,45
+18,Apolda,Germany,DE,Thuringia,51.0247,11.5139,2023-01-06,32
+19,Arnsberg,Germany,DE,North Rhine-Westphalia,51.3967,8.0644,2023-02-19,47
+20,Arnstadt,Germany,DE,Thuringia,50.8342,10.9464,2023-02-24,46
+21,Aschaffenburg,Germany,DE,Bavaria,49.9757,9.1478,2023-02-26,60
+22,Aschersleben,Germany,DE,Saxony-Anhalt,51.75,11.4667,2023-01-28,27
+23,Augsburg,Germany,DE,Bavaria,48.3717,10.8983,2023-01-11,63
+24,Aurich,Germany,DE,Lower Saxony,53.4714,7.4836,2023-02-24,59
+27,Backnang,Germany,DE,Baden-Württemberg,48.9464,9.4306,2023-02-09,60
+29,Bad Ems,Germany,DE,Rhineland-Palatinate,50.3381,7.7106,2023-02-24,46
+30,Bad Fallingbostel,Germany,DE,Lower Saxony,52.8675,9.6967,2023-02-23,63
+31,Bad Hersfeld,Germany,DE,Hesse,50.8683,9.7067,2023-01-27,30
+32,Bad Homburg,Germany,DE,Hesse,50.2292,8.6105,2023-01-22,52
+33,Bad Honnef am Rhein,Germany,DE,North Rhine-Westphalia,50.645,7.2269,2023-02-04,30
+34,Bad Kissingen,Germany,DE,Bavaria,50.2,10.0667,2023-02-13,27
+35,Bad Kreuznach,Germany,DE,Rhineland-Palatinate,49.8469,7.8669,2023-02-16,58
+36,Bad Nauheim,Germany,DE,Hesse,50.3667,8.75,2023-01-25,63
+37,Bad Neuenahr-Ahrweiler,Germany,DE,Rhineland-Palatinate,50.5447,7.1133,2023-02-04,49
+38,Bad Neustadt,Germany,DE,Bavaria,50.3219,10.2161,2023-02-15,15
+39,Bad Oeynhausen,Germany,DE,North Rhine-Westphalia,52.2,8.8,2023-02-01,32
+40,Bad Oldesloe,Germany,DE,Schleswig-Holstein,53.8117,10.3742,2023-02-22,60
+41,Bad Reichenhall,Germany,DE,Bavaria,47.7247,12.8769,2023-01-20,23
+42,Bad Salzuflen,Germany,DE,North Rhine-Westphalia,52.0875,8.7506,2023-01-03,35
+43,Bad Salzungen,Germany,DE,Thuringia,50.8117,10.2333,2023-02-12,59
+44,Bad Schwalbach,Germany,DE,Hesse,50.1401,8.0694,2023-02-20,50
+45,Bad Segeberg,Germany,DE,Schleswig-Holstein,53.9356,10.3089,2023-02-12,62
+46,Bad Vilbel,Germany,DE,Hesse,50.1781,8.7361,2023-02-02,39
+47,Bad Zwischenahn,Germany,DE,Lower Saxony,53.1836,8.0097,2023-02-21,30
+48,Baden-Baden,Germany,DE,Baden-Württemberg,48.7619,8.2408,2023-01-31,33
+49,Baesweiler,Germany,DE,North Rhine-Westphalia,50.9,6.1833,2023-01-28,40
+50,Balingen,Germany,DE,Baden-Württemberg,48.2731,8.8506,2023-01-05,15
+51,Bamberg,Germany,DE,Bavaria,49.8917,10.8917,2023-01-03,66
+52,Barsinghausen,Germany,DE,Lower Saxony,52.3031,9.4606,2023-02-20,42
+54,Bautzen,Germany,DE,Saxony,51.1814,14.4239,2023-02-16,64
+55,Bayreuth,Germany,DE,Bavaria,49.9481,11.5783,2023-01-25,25
+56,Beckum,Germany,DE,North Rhine-Westphalia,51.7558,8.0408,2023-02-04,12
+57,Beeskow,Germany,DE,Brandenburg,52.1667,14.25,2023-02-22,52
+58,Bensheim,Germany,DE,Hesse,49.6811,8.6228,2023-02-19,56
+59,Bergheim,Germany,DE,North Rhine-Westphalia,50.9667,6.65,2023-02-17,17
+60,Bergisch Gladbach,Germany,DE,North Rhine-Westphalia,50.9917,7.1367,2023-01-27,27
+61,Bergkamen,Germany,DE,North Rhine-Westphalia,51.6167,7.6333,2023-02-27,65
+62,Berlin,Germany,DE,Berlin,52.5167,13.3833,2023-01-24,39
+63,Bernburg,Germany,DE,Saxony-Anhalt,51.8,11.7333,2023-02-01,27
+64,Biberach,Germany,DE,Baden-Württemberg,48.0981,9.7886,2023-01-09,48
+65,Bielefeld,Germany,DE,North Rhine-Westphalia,52.0167,8.5333,2023-02-20,60
+66,Bietigheim-Bissingen,Germany,DE,Baden-Württemberg,48.9667,9.1333,2023-02-11,23
+67,Bingen am Rhein,Germany,DE,Rhineland-Palatinate,49.9669,7.895,2023-01-28,45
+68,Birkenfeld,Germany,DE,Rhineland-Palatinate,49.65,7.1833,2023-01-25,22
+69,Bitburg,Germany,DE,Rhineland-Palatinate,49.9747,6.5256,2023-01-21,58
+70,Bitterfeld,Germany,DE,Saxony,51.6167,12.3167,2023-02-26,61
+71,Blankenfelde,Germany,DE,Brandenburg,52.35,13.4,2023-01-27,48
+72,Bocholt,Germany,DE,North Rhine-Westphalia,51.8333,6.6167,2023-02-15,22
+73,Bochum,Germany,DE,North Rhine-Westphalia,51.4833,7.2167,2023-02-07,19
+74,Bonn,Germany,DE,North Rhine-Westphalia,50.7339,7.0997,2023-02-05,23
+75,Borken,Germany,DE,North Rhine-Westphalia,51.8439,6.8583,2023-02-01,45
+76,Bornheim,Germany,DE,North Rhine-Westphalia,50.7592,7.005,2023-02-26,36
+77,Bottrop,Germany,DE,North Rhine-Westphalia,51.5232,6.9253,2023-02-12,65
+79,Brake,Germany,DE,Lower Saxony,53.3333,8.4833,2023-01-04,26
+80,Bramsche,Germany,DE,Lower Saxony,52.4089,7.9728,2023-01-26,25
+81,Brandenburg,Germany,DE,Brandenburg,52.4117,12.5561,2023-02-05,32
+82,Braunschweig,Germany,DE,Lower Saxony,52.2692,10.5211,2023-01-26,47
+83,Bremen,Germany,DE,Bremen,53.1153,8.7975,2023-01-02,21
+84,Bremerhaven,Germany,DE,Bremen,53.55,8.5833,2023-02-10,29
+85,Bretten,Germany,DE,Baden-Württemberg,49.0364,8.7061,2023-01-04,43
+86,Brilon,Germany,DE,North Rhine-Westphalia,51.3956,8.5678,2023-02-10,37
+87,Bruchsal,Germany,DE,Baden-Württemberg,49.1333,8.6,2023-01-03,13
+89,Burg,Germany,DE,Saxony-Anhalt,52.2725,11.855,2023-01-07,22
+90,Burgdorf,Germany,DE,Lower Saxony,52.4438,10.0078,2023-01-20,32
+91,Butzbach,Germany,DE,Hesse,50.4367,8.6622,2023-01-21,44
+92,Buxtehude,Germany,DE,Lower Saxony,53.4769,9.7011,2023-01-08,32
+93,Calw,Germany,DE,Baden-Württemberg,48.7144,8.7375,2023-01-22,51
+94,Castrop-Rauxel,Germany,DE,North Rhine-Westphalia,51.55,7.3167,2023-01-14,66
+95,Celle,Germany,DE,Lower Saxony,52.6256,10.0825,2023-01-30,14
+96,Cham,Germany,DE,Bavaria,49.2183,12.6658,2023-03-01,49
+97,Chemnitz,Germany,DE,Saxony,50.8333,12.9167,2023-02-06,49
+98,Cloppenburg,Germany,DE,Lower Saxony,52.8478,8.0439,2023-02-10,30
+99,Coburg,Germany,DE,Bavaria,50.2585,10.9579,2023-01-25,20
+101,Coesfeld,Germany,DE,North Rhine-Westphalia,51.9458,7.1675,2023-01-20,50
+102,Cologne,Germany,DE,North Rhine-Westphalia,50.9422,6.9578,2023-01-31,66
+103,Cottbus,Germany,DE,Brandenburg,51.7606,14.3342,2023-01-08,46
+104,Crailsheim,Germany,DE,Baden-Württemberg,49.1347,10.0706,2023-01-16,47
+105,Cuxhaven,Germany,DE,Lower Saxony,53.8667,8.7,2023-02-07,13
+109,Dachau,Germany,DE,Bavaria,48.2603,11.4342,2023-01-21,41
+110,Darmstadt,Germany,DE,Hesse,49.8667,8.65,2023-02-14,21
+111,Datteln,Germany,DE,North Rhine-Westphalia,51.6539,7.3417,2023-02-15,31
+112,Daun,Germany,DE,Rhineland-Palatinate,50.1986,6.8319,2023-01-30,51
+113,Deggendorf,Germany,DE,Bavaria,48.8353,12.9644,2023-01-02,26
+115,Delmenhorst,Germany,DE,Lower Saxony,53.0506,8.6317,2023-01-14,25
+117,Detmold,Germany,DE,North Rhine-Westphalia,51.9378,8.8833,2023-01-16,44
+118,Diepholz,Germany,DE,Lower Saxony,52.6072,8.3711,2023-01-23,56
+119,Dietzenbach,Germany,DE,Hesse,50.0086,8.7756,2023-01-31,62
+120,Dillingen,Germany,DE,Bavaria,48.5667,10.4667,2023-02-05,38
+121,Dingolfing,Germany,DE,Bavaria,48.6333,12.5,2023-02-17,49
+122,Dinslaken,Germany,DE,North Rhine-Westphalia,51.5667,6.7333,2023-02-24,34
+124,Dormagen,Germany,DE,North Rhine-Westphalia,51.0964,6.84,2023-01-06,31
+125,Dorsten,Germany,DE,North Rhine-Westphalia,51.66,6.9642,2023-01-21,31
+126,Dortmund,Germany,DE,North Rhine-Westphalia,51.5139,7.4653,2023-02-10,34
+128,Dresden,Germany,DE,Saxony,51.05,13.74,2023-02-21,32
+129,Duisburg,Germany,DE,North Rhine-Westphalia,51.4322,6.7611,2023-02-09,25
+130,Ebersberg,Germany,DE,Bavaria,48.0833,11.9667,2023-02-08,23
+131,Eberswalde,Germany,DE,Brandenburg,52.8331,13.8331,2023-02-14,24
+132,Ehingen an der Donau,Germany,DE,Baden-Württemberg,48.2833,9.7236,2023-01-18,50
+134,Einbeck,Germany,DE,Lower Saxony,51.8167,9.8667,2023-01-14,64
+135,Eisenach,Germany,DE,Thuringia,50.9747,10.3244,2023-02-05,49
+136,Eisenberg,Germany,DE,Thuringia,50.9667,11.9,2023-02-28,13
+137,Elmshorn,Germany,DE,Schleswig-Holstein,53.7547,9.6536,2023-01-25,17
+138,Emden,Germany,DE,Lower Saxony,53.3669,7.2061,2023-01-20,65
+139,Emmendingen,Germany,DE,Baden-Württemberg,48.1214,7.8492,2023-01-26,13
+140,Emsdetten,Germany,DE,North Rhine-Westphalia,52.1728,7.5344,2023-01-15,59
+141,Ennepetal,Germany,DE,North Rhine-Westphalia,51.3021,7.3425,2023-01-05,60
+142,Erbach,Germany,DE,Hesse,49.6569,8.9931,2023-01-22,19
+143,Erding,Germany,DE,Bavaria,48.3001,11.9082,2023-02-11,13
+144,Erftstadt,Germany,DE,North Rhine-Westphalia,50.8167,6.7667,2023-02-26,50
+145,Erfurt,Germany,DE,Thuringia,50.9787,11.0328,2023-02-06,13
+146,Erkelenz,Germany,DE,North Rhine-Westphalia,51.08,6.3156,2023-02-20,23
+147,Erkrath,Germany,DE,North Rhine-Westphalia,51.2239,6.9147,2023-01-19,20
+148,Erlangen,Germany,DE,Bavaria,49.5964,11.0044,2023-02-22,19
+149,Eschwege,Germany,DE,Hesse,51.1881,10.0528,2023-01-16,56
+150,Eschweiler,Germany,DE,North Rhine-Westphalia,50.8167,6.2833,2023-02-03,28
+151,Essen,Germany,DE,North Rhine-Westphalia,51.4508,7.0131,2023-02-05,12
+152,Esslingen,Germany,DE,Baden-Württemberg,48.7406,9.3108,2023-01-04,36
+153,Ettlingen,Germany,DE,Baden-Württemberg,48.9333,8.4,2023-02-26,24
+154,Euskirchen,Germany,DE,North Rhine-Westphalia,50.6613,6.7873,2023-01-03,28
+155,Eutin,Germany,DE,Schleswig-Holstein,54.1378,10.6181,2023-02-14,26
+158,Falkensee,Germany,DE,Brandenburg,52.5583,13.0917,2023-02-09,64
+159,Fellbach,Germany,DE,Baden-Württemberg,48.8086,9.2758,2023-02-25,50
+160,Filderstadt,Germany,DE,Baden-Württemberg,48.6667,9.2167,2023-02-10,44
+161,Flensburg,Germany,DE,Schleswig-Holstein,54.7819,9.4367,2023-02-10,27
+162,Forchheim,Germany,DE,Bavaria,49.7197,11.0581,2023-02-21,61
+163,Forst (Lausitz),Germany,DE,Brandenburg,51.7333,14.6333,2023-02-21,23
+164,Frankenthal,Germany,DE,Rhineland-Palatinate,49.5436,8.3639,2023-01-18,65
+165,Frankfurt,Germany,DE,Hesse,50.1136,8.6797,2023-02-04,38
+166,Frankfurt (Oder),Germany,DE,Brandenburg,52.35,14.55,2023-02-20,60
+167,Frechen,Germany,DE,North Rhine-Westphalia,50.9167,6.8167,2023-01-02,43
+168,Freiberg,Germany,DE,Saxony,50.9119,13.3428,2023-02-20,22
+169,Freiburg im Breisgau,Germany,DE,Baden-Württemberg,47.9947,7.8497,2023-02-21,54
+170,Freising,Germany,DE,Bavaria,48.4028,11.7489,2023-02-02,45
+171,Freital,Germany,DE,Saxony,51.0167,13.65,2023-01-24,20
+172,Freudenstadt,Germany,DE,Baden-Württemberg,48.4633,8.4111,2023-02-16,43
+173,Freyung,Germany,DE,Bavaria,48.8075,13.5475,2023-02-17,20
+174,Friedberg,Germany,DE,Bavaria,48.35,10.9833,2023-01-17,35
+175,Friedberg,Germany,DE,Hesse,50.3353,8.755,2023-01-11,29
+176,Friedrichsdorf,Germany,DE,Hesse,50.2569,8.6418,2023-02-24,31
+177,Friedrichshafen,Germany,DE,Baden-Württemberg,47.6542,9.4792,2023-01-23,66
+178,Fulda,Germany,DE,Hesse,50.5528,9.6775,2023-02-09,13
+184,Gaggenau,Germany,DE,Baden-Württemberg,48.8039,8.3194,2023-01-02,55
+185,Ganderkesee,Germany,DE,Lower Saxony,53.0358,8.5483,2023-01-21,48
+186,Garbsen,Germany,DE,Lower Saxony,52.4183,9.5981,2023-02-14,43
+187,Garmisch-Partenkirchen,Germany,DE,Bavaria,47.4921,11.0958,2023-01-05,59
+188,Geesthacht,Germany,DE,Schleswig-Holstein,53.4375,10.3675,2023-01-07,26
+189,Geilenkirchen,Germany,DE,North Rhine-Westphalia,50.9653,6.1194,2023-02-25,42
+190,Geislingen an der Steige,Germany,DE,Baden-Württemberg,48.6244,9.8306,2023-01-10,46
+191,Geldern,Germany,DE,North Rhine-Westphalia,51.5197,6.3325,2023-02-11,25
+192,Gelsenkirchen,Germany,DE,North Rhine-Westphalia,51.5167,7.1,2023-01-29,47
+194,Gera,Germany,DE,Thuringia,50.8782,12.0824,2023-03-01,34
+195,Geretsried,Germany,DE,Bavaria,47.8667,11.4667,2023-01-02,56
+196,Germering,Germany,DE,Bavaria,48.1333,11.3667,2023-02-03,53
+197,Germersheim,Germany,DE,Rhineland-Palatinate,49.2167,8.3667,2023-02-02,22
+198,Gevelsberg,Germany,DE,North Rhine-Westphalia,51.3265,7.3559,2023-01-02,19
+200,Gifhorn,Germany,DE,Lower Saxony,52.4886,10.5464,2023-01-09,58
+201,Gladbeck,Germany,DE,North Rhine-Westphalia,51.5713,6.9827,2023-02-24,64
+202,Goch,Germany,DE,North Rhine-Westphalia,51.6839,6.1619,2023-02-23,13
+203,Goslar,Germany,DE,Lower Saxony,51.906,10.4292,2023-01-29,60
+204,Gotha,Germany,DE,Thuringia,50.9489,10.7183,2023-01-06,51
+205,Greifswald,Germany,DE,Mecklenburg-Western Pomerania,54.0833,13.3833,2023-01-08,12
+206,Greiz,Germany,DE,Thuringia,50.6547,12.1997,2023-02-08,49
+207,Greven,Germany,DE,North Rhine-Westphalia,52.0917,7.6083,2023-01-09,44
+208,Grevenbroich,Germany,DE,North Rhine-Westphalia,51.0883,6.5875,2023-01-05,12
+209,Griesheim,Germany,DE,Hesse,49.8594,8.5525,2023-01-21,37
+210,Grimma,Germany,DE,Saxony,51.2386,12.7253,2023-01-26,64
+212,Gronau,Germany,DE,North Rhine-Westphalia,52.2125,7.0417,2023-01-10,62
+213,Gummersbach,Germany,DE,North Rhine-Westphalia,51.0333,7.5667,2023-02-26,24
+216,Haan,Germany,DE,North Rhine-Westphalia,51.1931,7.0131,2023-02-23,48
+217,Hagen,Germany,DE,North Rhine-Westphalia,51.3594,7.475,2023-02-27,48
+218,Halberstadt,Germany,DE,Saxony-Anhalt,51.8958,11.0467,2023-01-25,27
+219,Haldensleben,Germany,DE,Saxony-Anhalt,52.2833,11.4167,2023-01-21,65
+220,Halle,Germany,DE,Saxony-Anhalt,51.4828,11.9697,2023-02-04,16
+221,Hamburg,Germany,DE,Hamburg,53.55,10,2023-01-06,38
+222,Hameln,Germany,DE,Lower Saxony,52.1031,9.36,2023-01-15,64
+223,Hamm,Germany,DE,North Rhine-Westphalia,51.6667,7.8167,2023-02-07,55
+224,Hamminkeln,Germany,DE,North Rhine-Westphalia,51.7319,6.5908,2023-02-21,33
+225,Hanau,Germany,DE,Hesse,50.1328,8.9169,2023-02-25,29
+226,Hannover,Germany,DE,Lower Saxony,52.3744,9.7386,2023-01-05,59
+227,Hattersheim,Germany,DE,Hesse,50.0697,8.4862,2023-02-03,59
+228,Hattingen,Germany,DE,North Rhine-Westphalia,51.3992,7.1858,2023-02-11,60
+229,Heide,Germany,DE,Schleswig-Holstein,54.1961,9.0933,2023-01-23,21
+230,Heidelberg,Germany,DE,Baden-Württemberg,49.4122,8.71,2023-02-21,21
+231,Heidenheim,Germany,DE,Baden-Württemberg,48.6761,10.1544,2023-02-24,31
+232,Heilbad Heiligenstadt,Germany,DE,Thuringia,51.3775,10.1344,2023-01-31,16
+234,Heiligenhaus,Germany,DE,North Rhine-Westphalia,51.3265,6.971,2023-01-31,49
+235,Heinsberg,Germany,DE,North Rhine-Westphalia,51.0631,6.0964,2023-01-05,40
+236,Helmstedt,Germany,DE,Lower Saxony,52.2281,11.0106,2023-02-21,44
+237,Hemer,Germany,DE,North Rhine-Westphalia,51.3833,7.7667,2023-01-22,29
+238,Hennigsdorf,Germany,DE,Brandenburg,52.6378,13.2036,2023-02-01,44
+239,Henstedt-Ulzburg,Germany,DE,Schleswig-Holstein,53.7833,10,2023-02-24,25
+240,Heppenheim,Germany,DE,Hesse,49.6415,8.645,2023-02-23,24
+241,Herford,Germany,DE,North Rhine-Westphalia,52.1146,8.6734,2023-02-17,59
+242,Herne,Germany,DE,North Rhine-Westphalia,51.5426,7.219,2023-02-23,58
+243,Herrenberg,Germany,DE,Baden-Württemberg,48.5967,8.8708,2023-01-30,28
+244,Herten,Germany,DE,North Rhine-Westphalia,51.6,7.1333,2023-01-17,19
+245,Herzberg,Germany,DE,Brandenburg,51.6831,13.2331,2023-01-11,59
+246,Herzogenrath,Germany,DE,North Rhine-Westphalia,50.8667,6.1,2023-02-08,28
+247,Hildburghausen,Germany,DE,Thuringia,50.4261,10.7289,2023-02-23,55
+248,Hilden,Germany,DE,North Rhine-Westphalia,51.1714,6.9394,2023-02-21,64
+249,Hildesheim,Germany,DE,Lower Saxony,52.15,9.95,2023-01-24,18
+250,Hof,Germany,DE,Bavaria,50.3167,11.9167,2023-02-04,56
+251,Hofheim,Germany,DE,Hesse,50.0876,8.4447,2023-02-10,34
+252,Hohen Neuendorf,Germany,DE,Brandenburg,52.6667,13.2831,2023-01-25,61
+253,Holzminden,Germany,DE,Lower Saxony,51.8297,9.4483,2023-01-28,18
+254,Homberg,Germany,DE,Hesse,51.0299,9.4026,2023-01-02,66
+255,Homburg,Germany,DE,Saarland,49.3167,7.3333,2023-01-05,60
+256,Hoyerswerda,Germany,DE,Saxony,51.4331,14.25,2023-01-13,40
+257,Husum,Germany,DE,Schleswig-Holstein,54.4769,9.0511,2023-01-25,18
+259,Ilmenau,Germany,DE,Thuringia,50.6872,10.9142,2023-02-27,38
+260,Ingelheim,Germany,DE,Rhineland-Palatinate,49.9747,8.0564,2023-02-14,57
+261,Ingolstadt,Germany,DE,Bavaria,48.7636,11.4261,2023-02-13,12
+262,Iserlohn,Germany,DE,North Rhine-Westphalia,51.3833,7.6667,2023-01-02,15
+263,Itzehoe,Germany,DE,Schleswig-Holstein,53.925,9.5164,2023-02-07,54
+265,Jena,Germany,DE,Thuringia,50.9272,11.5864,2023-01-08,60
+266,Jever,Germany,DE,Lower Saxony,53.5744,7.9008,2023-01-14,35
+269,Kaarst,Germany,DE,North Rhine-Westphalia,51.2278,6.6273,2023-01-05,17
+270,Kaiserslautern,Germany,DE,Rhineland-Palatinate,49.4447,7.7689,2023-01-26,59
+271,Kamen,Germany,DE,North Rhine-Westphalia,51.5917,7.6653,2023-02-26,17
+272,Kamp-Lintfort,Germany,DE,North Rhine-Westphalia,51.5,6.5333,2023-02-24,27
+273,Karlsruhe,Germany,DE,Baden-Württemberg,49.0167,8.4,2023-01-18,57
+274,Karlstadt,Germany,DE,Bavaria,49.9603,9.7724,2023-02-20,63
+275,Kassel,Germany,DE,Hesse,51.3166,9.4912,2023-02-27,45
+276,Kaufbeuren,Germany,DE,Bavaria,47.88,10.6225,2023-01-25,35
+277,Kehl,Germany,DE,Baden-Württemberg,48.5711,7.8089,2023-02-09,32
+278,Kelheim,Germany,DE,Bavaria,48.9167,11.8667,2023-01-27,31
+279,Kelkheim (Taunus),Germany,DE,Hesse,50.138,8.4525,2023-02-27,48
+280,Kempen,Germany,DE,North Rhine-Westphalia,51.3658,6.4194,2023-02-09,65
+281,Kempten,Germany,DE,Bavaria,47.7333,10.3167,2023-02-15,60
+282,Kerpen,Germany,DE,North Rhine-Westphalia,50.8719,6.6961,2023-01-11,17
+283,Kevelaer,Germany,DE,North Rhine-Westphalia,51.5833,6.25,2023-02-21,21
+284,Kiel,Germany,DE,Schleswig-Holstein,54.3233,10.1394,2023-01-06,31
+285,Kirchheim unter Teck,Germany,DE,Baden-Württemberg,48.6483,9.4511,2023-01-07,56
+286,Kirchheimbolanden,Germany,DE,Rhineland-Palatinate,49.6664,8.0117,2023-01-03,13
+287,Kitzingen,Germany,DE,Bavaria,49.7333,10.1667,2023-01-30,48
+288,Kleve,Germany,DE,North Rhine-Westphalia,51.79,6.14,2023-01-31,60
+289,Koblenz,Germany,DE,Rhineland-Palatinate,50.3597,7.5978,2023-01-11,41
+290,Konstanz,Germany,DE,Baden-Württemberg,47.6633,9.1753,2023-02-05,15
+291,Korbach,Germany,DE,Hesse,51.2719,8.8731,2023-01-24,28
+292,Kornwestheim,Germany,DE,Baden-Württemberg,48.8597,9.185,2023-02-01,31
+293,Korschenbroich,Germany,DE,North Rhine-Westphalia,51.1833,6.5167,2023-02-23,31
+294,Krefeld,Germany,DE,North Rhine-Westphalia,51.3333,6.5667,2023-01-24,33
+295,Kreuztal,Germany,DE,North Rhine-Westphalia,50.962,8.0064,2023-01-05,33
+296,Kronach,Germany,DE,Bavaria,50.2411,11.3281,2023-01-31,47
+297,Kulmbach,Germany,DE,Bavaria,50.1,11.4333,2023-01-15,32
+298,Kusel,Germany,DE,Rhineland-Palatinate,49.5347,7.3981,2023-01-07,17
+300,Laatzen,Germany,DE,Lower Saxony,52.3077,9.8133,2023-02-23,30
+301,Lage,Germany,DE,North Rhine-Westphalia,51.9833,8.8,2023-01-30,54
+302,Lampertheim,Germany,DE,Hesse,49.5942,8.4671,2023-01-30,21
+303,Landau,Germany,DE,Rhineland-Palatinate,49.1994,8.1231,2023-02-17,42
+304,Landsberg,Germany,DE,Bavaria,48.0528,10.8689,2023-02-19,38
+305,Landshut,Germany,DE,Bavaria,48.5397,12.1508,2023-02-14,58
+306,Langen,Germany,DE,Hesse,49.9893,8.6803,2023-01-03,55
+307,Langenfeld,Germany,DE,North Rhine-Westphalia,51.1167,6.95,2023-02-08,32
+308,Langenhagen,Germany,DE,Lower Saxony,52.4394,9.74,2023-01-21,21
+309,Lauf,Germany,DE,Bavaria,49.5103,11.2772,2023-01-31,65
+310,Lauterbach,Germany,DE,Hesse,50.6378,9.3944,2023-01-31,12
+311,Leer,Germany,DE,Lower Saxony,53.2308,7.4528,2023-01-27,22
+312,Lehrte,Germany,DE,Lower Saxony,52.3725,9.9769,2023-02-03,50
+313,Leichlingen,Germany,DE,North Rhine-Westphalia,51.1167,7.0167,2023-01-28,53
+314,Leimen,Germany,DE,Baden-Württemberg,49.3481,8.6911,2023-01-12,22
+315,Leinfelden-Echterdingen,Germany,DE,Baden-Württemberg,48.6928,9.1428,2023-01-22,29
+316,Leipzig,Germany,DE,Saxony,51.3333,12.3833,2023-02-26,39
+317,Lemgo,Germany,DE,North Rhine-Westphalia,52.0277,8.9043,2023-02-01,32
+318,Lennestadt,Germany,DE,North Rhine-Westphalia,51.1236,8.0681,2023-02-11,18
+319,Leonberg,Germany,DE,Baden-Württemberg,48.8014,9.0131,2023-02-13,50
+320,Leverkusen,Germany,DE,North Rhine-Westphalia,51.0333,6.9833,2023-02-21,41
+321,Lichtenfels,Germany,DE,Bavaria,50.1333,11.0333,2023-02-15,35
+322,Limburg,Germany,DE,Hesse,50.3833,8.0667,2023-01-06,54
+323,Lindau,Germany,DE,Bavaria,47.5458,9.6839,2023-01-24,28
+324,Lingen,Germany,DE,Lower Saxony,52.5233,7.3172,2023-02-02,48
+325,Lippstadt,Germany,DE,North Rhine-Westphalia,51.6667,8.35,2023-01-22,43
+326,Lohmar,Germany,DE,North Rhine-Westphalia,50.8415,7.2166,2023-02-24,41
+327,Lohne,Germany,DE,Lower Saxony,52.6667,8.2386,2023-01-07,64
+328,Luckenwalde,Germany,DE,Brandenburg,52.0831,13.1667,2023-02-13,24
+329,Ludwigsburg,Germany,DE,Baden-Württemberg,48.8975,9.1919,2023-01-02,25
+330,Ludwigsfelde,Germany,DE,Brandenburg,52.2997,13.2667,2023-02-11,17
+331,Ludwigshafen,Germany,DE,Rhineland-Palatinate,49.4811,8.4353,2023-01-19,48
+336,Magdeburg,Germany,DE,Saxony-Anhalt,52.1278,11.6292,2023-02-05,14
+337,Maintal,Germany,DE,Hesse,50.15,8.8333,2023-01-23,33
+338,Mainz,Germany,DE,Rhineland-Palatinate,50,8.2667,2023-01-03,30
+339,Mannheim,Germany,DE,Baden-Württemberg,49.4878,8.4661,2023-01-22,64
+340,Marburg,Germany,DE,Hesse,50.8167,8.7667,2023-01-20,56
+341,Marktoberdorf,Germany,DE,Bavaria,47.7667,10.6167,2023-01-08,16
+342,Marl,Germany,DE,North Rhine-Westphalia,51.6667,7.1167,2023-01-02,14
+343,Mechernich,Germany,DE,North Rhine-Westphalia,50.6,6.65,2023-02-14,28
+344,Meerbusch,Germany,DE,North Rhine-Westphalia,51.2667,6.6667,2023-01-21,48
+346,Meiningen,Germany,DE,Thuringia,50.55,10.4167,2023-01-06,43
+347,Melle,Germany,DE,Lower Saxony,52.2031,8.3361,2023-02-05,51
+348,Memmingen,Germany,DE,Bavaria,47.9878,10.1811,2023-01-22,29
+349,Meppen,Germany,DE,Lower Saxony,52.6906,7.291,2023-01-26,62
+350,Merseburg,Germany,DE,Saxony-Anhalt,51.3544,11.9928,2023-02-19,51
+351,Merzig,Germany,DE,Saarland,49.4471,6.6312,2023-02-07,40
+352,Meschede,Germany,DE,North Rhine-Westphalia,51.3503,8.2836,2023-01-25,66
+353,Mettmann,Germany,DE,North Rhine-Westphalia,51.25,6.9667,2023-01-21,32
+354,Miesbach,Germany,DE,Bavaria,47.789,11.8338,2023-02-27,27
+355,Miltenberg,Germany,DE,Bavaria,49.7039,9.2644,2023-02-16,27
+356,Mindelheim,Germany,DE,Bavaria,48.0333,10.4667,2023-02-23,13
+357,Minden,Germany,DE,North Rhine-Westphalia,52.2883,8.9167,2023-01-20,40
+358,Moers,Germany,DE,North Rhine-Westphalia,51.4592,6.6197,2023-01-25,24
+359,Montabaur,Germany,DE,Rhineland-Palatinate,50.4375,7.8258,2023-02-11,66
+360,Mosbach,Germany,DE,Baden-Württemberg,49.35,9.1333,2023-02-03,63
+361,Munich,Germany,DE,Bavaria,48.1372,11.5755,2023-02-27,28
+363,Naumburg,Germany,DE,Saxony-Anhalt,51.1521,11.8098,2023-01-16,57
+364,Neckarsulm,Germany,DE,Baden-Württemberg,49.1917,9.2244,2023-02-03,46
+365,Nettetal,Germany,DE,North Rhine-Westphalia,51.3167,6.2833,2023-01-21,27
+366,Neu Isenburg,Germany,DE,Hesse,50.0558,8.6971,2023-01-27,27
+367,Neu-Ulm,Germany,DE,Bavaria,48.3833,10,2023-01-28,49
+368,Neubrandenburg,Germany,DE,Mecklenburg-Western Pomerania,53.5569,13.2608,2023-01-06,64
+369,Neuburg,Germany,DE,Bavaria,48.7333,11.1833,2023-01-15,14
+371,Neumarkt,Germany,DE,Bavaria,49.2833,11.4667,2023-01-02,43
+372,Neunkirchen,Germany,DE,Saarland,49.3448,7.1799,2023-02-14,49
+373,Neuruppin,Germany,DE,Brandenburg,52.9222,12.8,2023-02-06,64
+374,Neuss,Germany,DE,North Rhine-Westphalia,51.2003,6.6939,2023-02-08,56
+375,Neustadt,Germany,DE,Rhineland-Palatinate,49.3443,8.1952,2023-01-06,12
+376,Neustadt,Germany,DE,Bavaria,49.58,10.6089,2023-02-15,29
+377,Neustadt,Germany,DE,Bavaria,49.7306,12.1706,2023-01-04,25
+378,Neustadt,Germany,DE,Hesse,49.5656,8.8437,2023-02-09,61
+380,Neuwied,Germany,DE,Rhineland-Palatinate,50.4286,7.4614,2023-01-30,34
+381,Niederkassel,Germany,DE,North Rhine-Westphalia,50.8167,7.0333,2023-02-13,37
+382,Nienburg,Germany,DE,Lower Saxony,52.6461,9.2208,2023-01-25,59
+383,Nordenham,Germany,DE,Lower Saxony,53.5,8.4667,2023-02-07,62
+384,Norderstedt,Germany,DE,Schleswig-Holstein,53.7064,10.0103,2023-02-20,19
+385,Nordhausen,Germany,DE,Thuringia,51.505,10.7911,2023-01-16,42
+386,Nordhorn,Germany,DE,Lower Saxony,52.4333,7.0667,2023-01-14,39
+387,Northeim,Germany,DE,Lower Saxony,51.7067,10.0011,2023-02-03,25
+388,Nuremberg,Germany,DE,Bavaria,49.4539,11.0775,2023-02-23,41
+389,Oberhausen,Germany,DE,North Rhine-Westphalia,51.4699,6.8514,2023-02-21,65
+390,Oberursel,Germany,DE,Hesse,50.2028,8.5769,2023-02-15,18
+391,Oelde,Germany,DE,North Rhine-Westphalia,51.8258,8.1436,2023-01-09,15
+392,Oer-Erkenschwick,Germany,DE,North Rhine-Westphalia,51.6422,7.2508,2023-02-23,47
+393,Offenbach,Germany,DE,Hesse,50.1006,8.7665,2023-02-11,14
+394,Offenburg,Germany,DE,Baden-Württemberg,48.4708,7.9408,2023-02-22,54
+395,Oldenburg,Germany,DE,Lower Saxony,53.1439,8.2139,2023-01-04,22
+396,Olpe,Germany,DE,North Rhine-Westphalia,51.0289,7.8514,2023-01-08,54
+397,Oranienburg,Germany,DE,Brandenburg,52.7544,13.2369,2023-02-12,16
+398,Osterholz-Scharmbeck,Germany,DE,Lower Saxony,53.2269,8.7947,2023-01-04,21
+399,Osterode,Germany,DE,Lower Saxony,51.7286,10.2522,2023-03-01,57
+400,Ostfildern,Germany,DE,Baden-Württemberg,48.7228,9.2631,2023-02-25,16
+401,Overath,Germany,DE,North Rhine-Westphalia,50.9328,7.2839,2023-01-07,15
+402,Paderborn,Germany,DE,North Rhine-Westphalia,51.7167,8.7667,2023-01-20,19
+403,Papenburg,Germany,DE,Lower Saxony,53.0667,7.4,2023-02-10,24
+404,Parchim,Germany,DE,Mecklenburg-Western Pomerania,53.4167,11.8333,2023-02-26,37
+405,Passau,Germany,DE,Bavaria,48.5667,13.4667,2023-01-26,15
+406,Peine,Germany,DE,Lower Saxony,52.3203,10.2336,2023-02-09,24
+407,Perleberg,Germany,DE,Brandenburg,53.0667,11.8667,2023-02-19,21
+408,Petershagen,Germany,DE,North Rhine-Westphalia,52.3833,8.9667,2023-02-25,19
+409,Pfaffenhofen,Germany,DE,Bavaria,48.5333,11.5167,2023-01-17,51
+410,Pfarrkirchen,Germany,DE,Bavaria,48.4419,12.9443,2023-01-21,53
+411,Pforzheim,Germany,DE,Baden-Württemberg,48.895,8.705,2023-01-23,55
+412,Pfungstadt,Germany,DE,Hesse,49.8056,8.6044,2023-01-02,29
+414,Pirmasens,Germany,DE,Rhineland-Palatinate,49.2,7.6,2023-02-27,42
+415,Pirna,Germany,DE,Saxony,50.9622,13.9403,2023-01-13,35
+416,Plauen,Germany,DE,Saxony,50.495,12.1383,2023-01-13,34
+417,Plettenberg,Germany,DE,North Rhine-Westphalia,51.2128,7.8715,2023-02-17,31
+418,Porta Westfalica,Germany,DE,North Rhine-Westphalia,52.2167,8.9333,2023-02-27,13
+419,Potsdam,Germany,DE,Brandenburg,52.4,13.0667,2023-02-11,38
+421,Pulheim,Germany,DE,North Rhine-Westphalia,51,6.8,2023-01-22,32
+423,Radebeul,Germany,DE,Saxony,51.1033,13.67,2023-01-02,66
+424,Radolfzell am Bodensee,Germany,DE,Baden-Württemberg,47.7369,8.9697,2023-02-17,53
+425,Rastatt,Germany,DE,Baden-Württemberg,48.8572,8.2031,2023-02-18,64
+426,Rathenow,Germany,DE,Brandenburg,52.6,12.3333,2023-02-05,37
+427,Ratingen,Germany,DE,North Rhine-Westphalia,51.3,6.85,2023-02-24,28
+428,Ratzeburg,Germany,DE,Schleswig-Holstein,53.7017,10.7567,2023-01-26,36
+429,Ravensburg,Germany,DE,Baden-Württemberg,47.7831,9.6114,2023-02-28,15
+430,Recklinghausen,Germany,DE,North Rhine-Westphalia,51.6167,7.2,2023-01-07,46
+431,Regen,Germany,DE,Bavaria,48.97,13.1264,2023-01-30,25
+432,Regensburg,Germany,DE,Bavaria,49.0167,12.0833,2023-01-14,63
+433,Reinbek,Germany,DE,Schleswig-Holstein,53.5089,10.2483,2023-01-05,51
+434,Remscheid,Germany,DE,North Rhine-Westphalia,51.1802,7.1872,2023-02-17,60
+435,Rendsburg,Germany,DE,Schleswig-Holstein,54.3044,9.6644,2023-02-14,53
+436,Reutlingen,Germany,DE,Baden-Württemberg,48.4833,9.2167,2023-01-19,37
+438,Rheinbach,Germany,DE,North Rhine-Westphalia,50.6256,6.9491,2023-01-19,42
+439,Rheinberg,Germany,DE,North Rhine-Westphalia,51.5467,6.6006,2023-02-10,41
+440,Rheine,Germany,DE,North Rhine-Westphalia,52.2833,7.4333,2023-01-02,52
+441,Rheinfelden (Baden),Germany,DE,Baden-Württemberg,47.5611,7.7917,2023-01-24,66
+442,Riesa,Germany,DE,Saxony,51.3081,13.2939,2023-01-26,38
+443,Rietberg,Germany,DE,North Rhine-Westphalia,51.8,8.4333,2023-02-05,54
+444,Rinteln,Germany,DE,Lower Saxony,52.1906,9.0814,2023-01-18,25
+445,Rodgau,Germany,DE,Hesse,50.0256,8.8841,2023-01-06,14
+446,Rosenheim,Germany,DE,Bavaria,47.8561,12.1289,2023-02-15,50
+447,Rostock,Germany,DE,Mecklenburg-Western Pomerania,54.0833,12.1333,2023-01-14,42
+448,Rotenburg,Germany,DE,Lower Saxony,53.1113,9.4108,2023-02-16,52
+449,Roth,Germany,DE,Bavaria,49.2461,11.0911,2023-02-02,16
+450,Rottweil,Germany,DE,Baden-Württemberg,48.1681,8.6247,2023-02-01,43
+452,Saalfeld,Germany,DE,Thuringia,50.6506,11.3542,2023-02-25,22
+453,Saarlouis,Germany,DE,Saarland,49.3167,6.75,2023-01-18,38
+454,Salzgitter,Germany,DE,Lower Saxony,52.1503,10.3593,2023-02-20,44
+455,Salzwedel,Germany,DE,Saxony-Anhalt,52.85,11.15,2023-01-24,58
+456,Sangerhausen,Germany,DE,Saxony-Anhalt,51.4667,11.3,2023-02-28,19
+457,Sankt Augustin,Germany,DE,North Rhine-Westphalia,50.77,7.1867,2023-02-16,52
+458,Sankt Ingbert,Germany,DE,Saarland,49.3,7.1167,2023-01-17,27
+459,Sankt Wendel,Germany,DE,Saarland,49.4667,7.1667,2023-02-07,29
+461,Schleiz,Germany,DE,Thuringia,50.5833,11.8167,2023-02-12,15
+462,Schleswig,Germany,DE,Schleswig-Holstein,54.5153,9.5697,2023-01-27,14
+463,Schorndorf,Germany,DE,Baden-Württemberg,48.8,9.5333,2023-02-23,63
+466,Schwabach,Germany,DE,Bavaria,49.3292,11.0208,2023-02-13,64
+467,Schwandorf,Germany,DE,Bavaria,49.3236,12.0993,2023-01-21,48
+468,Schwedt (Oder),Germany,DE,Brandenburg,53.0631,14.2831,2023-01-11,66
+469,Schweinfurt,Germany,DE,Bavaria,50.05,10.2333,2023-01-14,30
+470,Schwelm,Germany,DE,North Rhine-Westphalia,51.2904,7.2972,2023-02-01,56
+471,Schwerin,Germany,DE,Mecklenburg-Western Pomerania,53.6333,11.4167,2023-01-21,16
+472,Schwerte,Germany,DE,North Rhine-Westphalia,51.4458,7.5653,2023-01-29,15
+473,Seelow,Germany,DE,Brandenburg,52.5167,14.3831,2023-02-14,46
+474,Seelze,Germany,DE,Lower Saxony,52.3961,9.5981,2023-02-09,57
+475,Seevetal,Germany,DE,Lower Saxony,53.3833,10.0333,2023-01-28,33
+476,Selm,Germany,DE,North Rhine-Westphalia,51.6833,7.4833,2023-01-06,43
+477,Senftenberg,Germany,DE,Brandenburg,51.5167,14.0167,2023-01-26,56
+478,Siegburg,Germany,DE,North Rhine-Westphalia,50.8014,7.2044,2023-01-10,28
+479,Siegen,Germany,DE,North Rhine-Westphalia,50.8756,8.0167,2023-01-10,65
+480,Sigmaringen,Germany,DE,Baden-Württemberg,48.0867,9.2164,2023-02-12,14
+481,Simmern,Germany,DE,Rhineland-Palatinate,49.9833,7.5167,2023-01-10,16
+482,Sindelfingen,Germany,DE,Baden-Württemberg,48.7133,9.0028,2023-02-16,20
+483,Sinsheim,Germany,DE,Baden-Württemberg,49.25,8.8833,2023-01-25,59
+484,Soest,Germany,DE,North Rhine-Westphalia,51.5711,8.1092,2023-02-15,46
+485,Solingen,Germany,DE,North Rhine-Westphalia,51.1667,7.0833,2023-02-08,26
+486,Sondershausen,Germany,DE,Thuringia,51.3667,10.8667,2023-02-01,28
+487,Sonneberg,Germany,DE,Thuringia,50.35,11.1667,2023-02-01,23
+488,Sonthofen,Germany,DE,Bavaria,47.5142,10.2817,2023-01-24,13
+489,Speyer,Germany,DE,Rhineland-Palatinate,49.3194,8.4311,2023-02-02,42
+490,Springe,Germany,DE,Lower Saxony,52.2167,9.55,2023-02-18,62
+492,Stade,Germany,DE,Lower Saxony,53.6008,9.4764,2023-01-17,22
+493,Stadthagen,Germany,DE,Lower Saxony,52.3247,9.2069,2023-02-25,59
+494,Starnberg,Germany,DE,Bavaria,47.9972,11.3406,2023-02-01,63
+495,Steinfurt,Germany,DE,North Rhine-Westphalia,52.1504,7.3366,2023-02-25,34
+496,Stendal,Germany,DE,Saxony-Anhalt,52.6,11.85,2023-02-28,22
+497,Stolberg,Germany,DE,North Rhine-Westphalia,50.7667,6.2333,2023-01-03,25
+498,Stralsund,Germany,DE,Mecklenburg-Western Pomerania,54.3092,13.0819,2023-01-17,62
+499,Straubing,Germany,DE,Bavaria,48.8772,12.5758,2023-01-05,55
+500,Strausberg,Germany,DE,Brandenburg,52.5808,13.8814,2023-02-06,28
+501,Stuhr,Germany,DE,Lower Saxony,53.0167,8.75,2023-02-27,48
+502,Stuttgart,Germany,DE,Baden-Württemberg,48.7761,9.1775,2023-01-27,62
+503,Suhl,Germany,DE,Thuringia,50.6106,10.6931,2023-02-01,23
+504,Sundern,Germany,DE,North Rhine-Westphalia,51.3167,8,2023-02-10,31
+507,Tauberbischofsheim,Germany,DE,Baden-Württemberg,49.6225,9.6628,2023-01-29,42
+508,Taunusstein,Germany,DE,Hesse,50.1435,8.1606,2023-01-24,64
+509,Teltow,Germany,DE,Brandenburg,52.4022,13.2706,2023-02-19,54
+510,Tirschenreuth,Germany,DE,Bavaria,49.8789,12.3369,2023-01-05,18
+511,Torgau,Germany,DE,Saxony,51.5603,13.0056,2023-02-18,62
+512,Traunstein,Germany,DE,Bavaria,47.8683,12.6433,2023-01-15,19
+513,Trier,Germany,DE,Rhineland-Palatinate,49.7567,6.6414,2023-01-14,28
+514,Troisdorf,Germany,DE,North Rhine-Westphalia,50.8161,7.1556,2023-01-03,66
+515,Tuttlingen,Germany,DE,Baden-Württemberg,47.985,8.8233,2023-01-22,59
+516,Uelzen,Germany,DE,Lower Saxony,52.9647,10.5658,2023-02-02,37
+517,Ulm,Germany,DE,Baden-Württemberg,48.3984,9.9916,2023-03-01,25
+521,Vaihingen an der Enz,Germany,DE,Baden-Württemberg,48.9328,8.9564,2023-01-21,60
+522,Vechta,Germany,DE,Lower Saxony,52.7306,8.2886,2023-02-25,31
+523,Velbert,Germany,DE,North Rhine-Westphalia,51.34,7.0416,2023-01-24,32
+524,Verden,Germany,DE,Lower Saxony,52.9234,9.2349,2023-02-05,18
+525,Verl,Germany,DE,North Rhine-Westphalia,51.8831,8.5167,2023-02-11,62
+526,Viernheim,Germany,DE,Hesse,49.538,8.5792,2023-02-12,37
+527,Viersen,Germany,DE,North Rhine-Westphalia,51.2556,6.3917,2023-01-12,18
+528,Villingen-Schwenningen,Germany,DE,Baden-Württemberg,48.0603,8.4586,2023-01-04,18
+532,Waldshut-Tiengen,Germany,DE,Baden-Württemberg,47.6231,8.2144,2023-02-04,65
+533,Waltrop,Germany,DE,North Rhine-Westphalia,51.6236,7.3972,2023-02-24,41
+534,Warendorf,Germany,DE,North Rhine-Westphalia,51.9539,7.9933,2023-01-26,32
+535,Wedel,Germany,DE,Schleswig-Holstein,53.5833,9.7,2023-02-20,61
+536,Wegberg,Germany,DE,North Rhine-Westphalia,51.1333,6.2667,2023-01-06,35
+539,Weiden,Germany,DE,Bavaria,49.6768,12.1561,2023-02-24,57
+540,Weil am Rhein,Germany,DE,Baden-Württemberg,47.5947,7.6108,2023-01-18,45
+541,Weilheim,Germany,DE,Bavaria,47.8333,11.1333,2023-01-29,24
+542,Weimar,Germany,DE,Thuringia,50.9833,11.3167,2023-02-08,30
+543,Weinheim,Germany,DE,Baden-Württemberg,49.5561,8.6697,2023-01-19,64
+544,Weiterstadt,Germany,DE,Hesse,49.9,8.6,2023-02-15,16
+545,Werl,Germany,DE,North Rhine-Westphalia,51.5528,7.9139,2023-01-19,27
+546,Wermelskirchen,Germany,DE,North Rhine-Westphalia,51.1392,7.2051,2023-02-24,34
+547,Wernigerode,Germany,DE,Saxony-Anhalt,51.835,10.7853,2023-01-26,16
+548,Werve,Germany,DE,North Rhine-Westphalia,51.6667,7.6167,2023-01-04,51
+549,Wesel,Germany,DE,North Rhine-Westphalia,51.6586,6.6178,2023-02-19,19
+550,Wesseling,Germany,DE,North Rhine-Westphalia,50.8207,6.9786,2023-02-09,53
+551,Westerstede,Germany,DE,Lower Saxony,53.25,7.9167,2023-02-04,60
+552,Wetter (Ruhr),Germany,DE,North Rhine-Westphalia,51.3881,7.395,2023-01-09,39
+553,Wetzlar,Germany,DE,Hesse,50.5667,8.5,2023-02-13,42
+554,Weyhe,Germany,DE,Lower Saxony,52.9936,8.8733,2023-01-30,51
+555,Wiesbaden,Germany,DE,Hesse,50.0825,8.24,2023-02-16,13
+556,Wiesloch,Germany,DE,Baden-Württemberg,49.2942,8.6983,2023-01-23,50
+557,Wilhelmshaven,Germany,DE,Lower Saxony,53.5167,8.1333,2023-01-07,47
+558,Willich,Germany,DE,North Rhine-Westphalia,51.2631,6.5492,2023-01-20,20
+559,Winnenden,Germany,DE,Baden-Württemberg,48.8764,9.3978,2023-02-22,44
+560,Winsen,Germany,DE,Lower Saxony,53.3667,10.2167,2023-02-18,50
+561,Wismar,Germany,DE,Mecklenburg-Western Pomerania,53.8925,11.465,2023-02-24,47
+562,Witten,Germany,DE,North Rhine-Westphalia,51.4333,7.3333,2023-02-11,44
+563,Wittenberg,Germany,DE,Saxony-Anhalt,51.8671,12.6484,2023-01-14,51
+564,Wittlich,Germany,DE,Rhineland-Palatinate,49.9869,6.8897,2023-01-05,21
+565,Wittmund,Germany,DE,Lower Saxony,53.5747,7.7808,2023-01-12,18
+567,Wolfsburg,Germany,DE,Lower Saxony,52.4231,10.7872,2023-01-18,46
+568,Worms,Germany,DE,Rhineland-Palatinate,49.6319,8.3653,2023-02-20,46
+569,Wunsiedel,Germany,DE,Bavaria,50.0374,11.9994,2023-01-09,26
+570,Wunstorf,Germany,DE,Lower Saxony,52.4238,9.4359,2023-02-14,21
+571,Wuppertal,Germany,DE,North Rhine-Westphalia,51.2667,7.1833,2023-01-11,28
+572,Zeitz,Germany,DE,Saxony-Anhalt,51.0478,12.1383,2023-01-25,15
+573,Zirndorf,Germany,DE,Bavaria,49.45,10.95,2023-01-21,45
+574,Zittau,Germany,DE,Saxony,50.8961,14.8072,2023-02-14,46
+576,Zwickau,Germany,DE,Saxony,50.7189,12.4961,2023-02-13,32
