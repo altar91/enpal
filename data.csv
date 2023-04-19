@@ -1,0 +1,133 @@
+,metric_name,order_number,bg_color,sub_metric
+0,Leads,1,white,False
+1,CPL (?),2,white,False
+2,Marketing Costs,3,white,False
+3,Leads Quality (%),4,grey,True
+4,Qualified Leads,5,orange,False
+5,thereof Atlas,6,white,True
+6,Qualified Leads Ratio,7,blue,True
+7,CPQL (?),8,white,False
+8,Placeholder Row 1,9,white,False
+9,Planning 1,10,white,False
+10,Planning 1 Ratio,11,blue,True
+11,SC1 Scheduled,12,white,False
+12,SC1 Scheduled Ratio,13,blue,True
+13,SC1 Rescheduled,14,white,False
+14,SC1 Cancellations,15,white,False
+15,SC1 Cancellation Rate,16,blue,True
+16,SC1 Capacity W0,17,white,False
+17,SC1 Utilization W0,18,grey,False
+18,SC1 Capacity W1,19,white,False
+19,SC1 Utilization W1,20,grey,False
+20,SC1 Capacity W2,21,white,False
+21,SC1 Utilization W2,22,grey,False
+22,SC1 Unique Slots,23,white,False
+23,SC1 Gross Appointments,24,white,False
+24,SC1 Unique Slot Utilization,25,blue,True
+25,SC1 Net Appointments,26,white,False
+26,SC1 Same Day Show Rate,27,blue,True
+27,Sales Call 1,28,orange,False
+28,SC1 Close Rate,29,blue,True
+29,SC1 Conversion Rate,30,blue,True
+30,Avg. Number of Modules in SC1,31,grey,True
+31,Battery Adoption in SC1,32,grey,True
+32,Wallbox Adoption in SC1,33,grey,True
+33,Background Checks,34,white,False
+34,Background Checks Ratio,35,blue,True
+35,MVT Scheduled,36,white,False
+36,MVT Rescheduled,37,white,False
+37,MVT Bugwelle,38,grey,True
+38,MVT Appointments,39,white,False
+39,MVT Completed,40,white,False
+40,MVT Completed Ratio,41,blue,True
+41,BBK,42,white,False
+42,BBK Ratio,43,blue,True
+43,Planning 2,44,white,False
+44,Planning 2 Ratio,45,blue,True
+45,SC2 Scheduled,46,white,False
+46,SC2 Bugwelle,47,grey,True
+47,SC2 Gross Appointments,48,white,False
+48,SC2 Net Appointments,49,white,False
+49,Sales Call 2,50,orange,False
+50,Gross IDnow Appointments,51,white,False
+51,Net IDnow Appointments,52,white,False
+52,IDnow,53,orange,False
+53,IDnow Ratio,54,blue,True
+54,Inflow ACH,55,white,False
+55,Outflow ACH,56,white,False
+56,TBK,57,orange,False
+57,Customers w/o AC Renovation,58,white,False
+58,Customers w AC Renovation,59,white,False
+59,Avg. Number of Modules in TBK,60,grey,True
+60,Battery Adoption in TBK,61,grey,True
+61,Wallbox Adoption in TBK,62,grey,True
+62,Placeholder Row 2,63,white,False
+63,TBK Scheduled,64,orange,False
+64,TBK Netto Ratio,65,blue,True
+65,TBK Rescheduled,66,white,False
+66,DC Capacity W1+2,67,white,False
+67,DC Utilization W1+2,68,grey,False
+68,DC Capacity W3+4,69,white,False
+69,DC Utilization W3+4,70,grey,False
+70,DC Capacity W5-8,71,white,False
+71,DC Utilization W5-8,72,grey,False
+72,DC Bugwelle Ratio,73,white,False
+73,DC Bugwelle,74,white,False
+74,DC & ACM Capacity,75,white,False
+75,DC & ACM Appointments,76,white,False
+76,DC & ACM completed,77,orange,False
+77,DC & ACM Completed Ratio,78,blue,False
+78,DC SKK (%),79,blue,False
+79,AC Capacity,80,white,False
+80,AC Appointments,81,white,False
+81,AC Completed,82,orange,False
+82,AC Completed Ratio,83,blue,False
+83,AC SKK Ratio,84,blue,False
+84,MT Potential,85,white,False
+85,MT Completed,86,orange,False
+86,MT Completed Ratio,87,blue,False
+87,OTIFF Ratio,88,blue,False
+88,Only DC/ACM Open w/o FU,89,white,True
+89,Only AC Open w/o FU,90,white,True
+90,DC/ACM/AC Open w/ FU,91,white,True
+91,Avg. Number of Modules in MT,92,grey,True
+92,Battery Adoption in MT,93,grey,True
+93,Wallbox Adoption in MT,94,grey,True
+94,Placeholder Row 3,95,white,False
+95,QM,96,orange,False
+96,QM - FTC,97,blue,False
+97,QM - WIP,98,white,True
+98,QM - Open Clarifications,99,white,True
+99,QM w/ ZT,100,orange,False
+100,QM w/o ZT - w/ FU,101,white,True
+101,QM w/o ZT - w/o FU,102,white,True
+102,ZT Approved,103,orange,False
+103,ZT Approved - FTC,104,blue,False
+104,ZT Approved - WIP,105,white,True
+105,ZT Approved - Open Clarifications,106,white,True
+106,NB,107,orange,False
+107,NB - FTC,108,blue,False
+108,NB - WIP,109,white,True
+109,NB - Open Clarifications,110,white,True
+110,Monitoring,111,orange,False
+111,Monitoring - FTC,112,blue,False
+112,Monitoring - WIP,113,white,True
+113,Monitoring - Open Clarifications,114,white,True
+114,Avg. Number of Modules in Monit..,115,grey,True
+115,Battery Adoption in Monitoring,116,grey,True
+116,Wallbox Adoption in Monitoring,117,grey,True
+117,Placeholder Row 4,118,white,False
+118,PM,119,orange,False
+119,PM - FTC,120,blue,False
+120,PM - WIP,121,white,True
+121,PM - Open Clarifications,122,white,True
+122,Total Refinanceable Assets,123,orange,False
+123,Delinquent,124,white,False
+124,Default,125,white,False
+125,Placeholder Row 1,126,white,False
+126,NPS,127,orange,False
+127,Netto AG,128,white,True
+128,MVT,129,white,True
+129,MT,130,white,True
+130,Kundenstorno,131,white,True
+131,Finale Survey,132,white,True
