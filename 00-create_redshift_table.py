@@ -9,19 +9,22 @@ warnings.filterwarnings("ignore")
 config = ConfigParser()
 config.read('../config.ini')
 
-user=config['scot']['user_name']
-password=config['scot']['password']
-db_name=config['scot']['db_name']
-host=config['scot']['host']
-port=config['scot']['port']
+USER = config['scot']['user_name']
+PASSWORD = config['scot']['password']
+DB_NAME = config['scot']['db_name']
+HOST = config['scot']['host']
+PORT = config['scot']['port']
 
-params = {'host': host,
-          'database': db_name,
-          'user': user,
-          'password': password,
-          'port': port}
+PATH = ["./SQL/customer_orders.sql", "./SQL/bases.sql", "./SQL/teams.sql"]
 
-def create_table(conn, path):
+params = {'host': HOST,
+          'database': DB_NAME,
+          'user': USER,
+          'password': PASSWORD,
+          'port': PORT}
+
+
+def create_table(conn, path) -> None:
     f = open(path, 'r')
     sql = f.read()
     f.close()
@@ -36,15 +39,14 @@ def create_table(conn, path):
         cur.close()
         conn.commit()
 
+
 if __name__ == '__main__':
     try:
         conn = psycopg2.connect(**params)
-        path=["./SQL/customer_orders.sql" , "./SQL/bases.sql", "./SQL/teams.sql"]
 
-        for i in range(len(path)):
-            create_table(conn, path=path[i])
-            print("Created : " + path[i])
+        for i in range(len(PATH)):
+            create_table(conn, path=PATH[i])
+            print("Created : " + PATH[i])
     finally:
         if conn is not None:
             conn.close()
-
